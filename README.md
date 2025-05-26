@@ -34,9 +34,11 @@ cd rock-paper-scissors
 ```
 
 ## 📸 Example Output
+``` bash
 🎮 Welcome to Rock, Paper, Scissors!
 Enter Rock, Paper, or Scissors: rock
 👩 You chose: rock
 💻 Computer chose: scissors
 You win!
 Do you want to play again? (y/n): y
+```
